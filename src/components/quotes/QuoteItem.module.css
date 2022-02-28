@@ -1,6 +1,6 @@
 .item {
-  margin: 1rem 0;
-  padding: 1rem;
+  margin: 1rem 1rem;
+  padding: 2rem;
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
